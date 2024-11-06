@@ -9,3 +9,5 @@ __pycache__/
 # Optional: Ignore other files/folders you don't want tracked
 *.log
 *.tmp
+Documentation.txt
+streamlit instructions cmd.txt

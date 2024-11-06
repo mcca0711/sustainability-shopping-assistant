@@ -22,24 +22,10 @@ pip install -r requirements.txt
 Run the app using streamlit:
 streamlit run app.py
 
-License
-This project is licensed under the MIT License.
+## License
 
+This project is proprietary. You may not copy, distribute, or modify the code in any way without explicit permission from the author. All rights reserved.
 
-- **Step 1**: Create a new text file named `README.md` in your project directory.
-
-- **Step 2**: Copy and paste the above content (or adapt it) into the `README.md` file.
-
-- **Step 3**: Save the file.
-
-### 3. **Add and Commit the Files to Git**
-
-Once you've created both files, you can add and commit them to your Git repository:
-
-```bash
-git add requirements.txt README.md
-git commit -m "Add requirements.txt and README.md"
-git push origin main  # or the appropriate branch
 
 
 
