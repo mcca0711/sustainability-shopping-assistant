@@ -1,0 +1,11 @@
+# Ignore the virtual environment folder
+venv/
+
+# Optional: Ignore Python bytecode files
+*.pyc
+*.pyo
+__pycache__/
+
+# Optional: Ignore other files/folders you don't want tracked
+*.log
+*.tmp
